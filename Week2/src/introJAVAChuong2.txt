@@ -1,0 +1,46 @@
+Câu 1. Đoạn mã:
+int t = a;
+b = t;
+a = b;
+đổi giá trị hai biến a và b cho nhau.
+
+Câu 2. Kết quả không phải lúc nào cũng chính xác bằng 1 vì hàm sin và cos trả về kiểu số thực nên sẽ có sai số lúc làm tròn kết quả
+
+Câu 3. Kiểm tra tất cả các cặp giá trị của a và b trong iJC2Cau3.java đều cho kết quả true. Có thể chứng minh bằng logic:
+  (!(a && b) && (a || b)) || ((a && b) || !(a || b))
+= ((!a || !b) && (a || b)) || (a && b) || (!a && !b)
+= ((!a || !b) && (a && b)) || ((a || b) && (a && b)) || (!a && !b)
+= X || ((a && b) || (!a && !b))
+= X || 1
+= 1 (TRUE)
+
+Câu 4. 
+  (!(a < b) && !(a > b))
+= ((a >= b) && (a <= b))
+= (a == b)
+Vậy biểu thức logic đã cho tương đương với (a == b)
+
+Câu 5.
+    a        b        a ^ b
+  TRUE     TRUE       FALSE
+  TRUE     FALSE      TRUE
+  FALSE    TRUE       TRUE
+  FALSE    FALSE      FALSE
+
+Câu 6.
+10 / 3 = 3 vì 10 và 3 đều đang ở kiểu số nguyên nên kết quả cũng là kiểu số nguyên
+
+Câu 7. Bài làm trong file iJC2Cau7.java
+
+Câu 8. Để tính căn bậc 2 của một số n bằng Quadratic.java, khi chạy chương trình cần nhập 2 tham số: 0 và -n
+Ví dụ: 
+$java Quadratic 0 -5
+Output: 
+2.23606797749979
+-2.23606797749979
+
+Câu 9. Bài làm trong file iJC2Cau9.java
+
+Câu 10. Bài làm trong file iJC2Cau10.java
+
+Câu 11. Bài làm trong file iJC2Cau11.java
