@@ -44,3 +44,52 @@ Câu 9. Bài làm trong file iJC2Cau9.java
 Câu 10. Bài làm trong file iJC2Cau10.java
 
 Câu 11. Bài làm trong file iJC2Cau11.java
+
+Câu 12. Không thể build file vì không có phương thức sqrt() mặc định
+
+Câu 13. (Math.sqrt(2) * Math.sqrt(2) == 2) == false vì làm tròn số thực có sai số
+
+Câu 14. Bài làm trong file iJC2Cau14.java
+
+Câu 15. Bài làm trong file iJC2Cau15.java
+
+Câu 16. Khi viết F = G * mass1 * mass2 / r * r thì sẽ tương đương với F = G * mass1 * mass2 vì không có thứ tự ưu tiên tính phép nhân ở mẫu số trước.
+Sửa lại: F = G * mass1 * mass2 / (r * r);
+
+Câu 17. Bài làm trong file iJC2Cau17.java
+
+Câu 18. Bài làm trong file iJC2Cau18.java
+
+Câu 19. Bài làm trong file iJC2Cau19.java
+
+Câu 20. Bài làm trong file SumOfTwoDice.java
+
+Câu 21. Bài làm trong file iJC2Cau21.java
+
+Câu 22. Bài làm trong file iJC2Cau22.java
+
+Câu 23. Bài làm trong file iJC2Cau23.java
+
+Câu 24. Bài làm trong file iJC2Cau24.java
+
+Câu 25. Bài làm trong file WindChill.java
+
+Câu 26. Bài làm trong file CartesianToPolar.java
+
+Câu 27. Bài làm trong file StdGaussian.java
+
+Câu 28. Bài làm trong file iJC2Cau28.java
+
+Câu 29. Bài làm trong file iJC2Cau29.java
+
+Câu 30. Bài làm trong file Stats5.java
+
+Câu 31. Bài làm trong file iJC2Cau31.java
+
+Câu 32. Bài làm trong file RGBtoCMYK.java
+
+Câu 33. Bài làm trong file GreatCircle.java
+
+Câu 34. Bài làm trong file ThreeSort.java
+
+Câu 35. Bài làm trong file Dragon.java
