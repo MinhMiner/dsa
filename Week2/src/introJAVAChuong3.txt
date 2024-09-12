@@ -1,0 +1,33 @@
+Câu 1. Bài làm trong file iJC3Cau1.java
+
+Câu 2. Bài làm trong file iJC3Cau2.java
+
+Câu 3.
+• if (a > b) then c = 0;
+Lỗi cú pháp: Thừa từ "then"
+• if a > b { c = 0; }
+Lỗi: a > b cần phải đặt trong dấu ngoặc đơn '()'
+• if (a > b) c = 0;
+Không có lỗi gì
+• if (a > b) c = 0 else b = 0;
+Lỗi: Kết thúc lệnh c = 0 không có dấu chấm phẩy ';'
+
+Câu 4. Bài làm trong file iJC3Cau4.java
+
+Câu 5. Bài làm trong file iJC3Cau5.java
+
+Câu 6. Bài làm trong file iJC3Cau6.java
+
+Câu 7. Bài làm trong file Hellos.java
+
+Câu 8. Bài làm trong file FivePerLine.java
+
+Câu 9. Bài làm trong file iJC3Cau9.java
+
+Câu 10. Số lượng phép tính toán sẽ trở nên quá lớn, máy tính sẽ bị tràn bộ nhớ hoặc mất rất nhiều thời gian để thực hiện xong chương trình
+
+Câu 11. Bài làm trong file FunctionGrowth.java
+
+Câu 12. n = 987654321
+
+Câu 13. Bài làm trong file iJC3Cau13.java
