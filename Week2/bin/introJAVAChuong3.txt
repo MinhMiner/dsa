@@ -41,5 +41,14 @@ Câu 15. Các vòng lặp
 sum = sum + 1 / (1.0 * i * i);
 thỏa mãn yêu cầu
 
+Câu 17. Bài làm trong file Root.java
 
+Câu 18. Bài làm trong file iJC3Cau18.java
 
+Câu 19. Bài làm trong file Kary.java
+
+Câu 20. Bài làm trong file iJC3Cau20.java
+
+Câu 21. Bài làm trong file iJC3Cau21.java
+
+Câu 23. Bài làm trong file iJC3Cau23.java
