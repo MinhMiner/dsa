@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "d:\\VSCode\\Java\\dsa\\Week3\\lib\\algs4.jar"
+    ]
+}
