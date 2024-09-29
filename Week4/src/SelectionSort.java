@@ -24,9 +24,10 @@ public class SelectionSort {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         int n = StdIn.readInt();
+        // int n = 1000000;
         int[] a = new int[n];
         for (int i = 0; i < n; i++) {
-            a[i] = StdRandom.uniformInt(0, 10000);
+            a[i] = StdRandom.uniformInt(0, 1000000);
         }
         selectionSort(a);
 
