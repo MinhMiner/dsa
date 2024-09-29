@@ -24,8 +24,8 @@ Bài 4: Cho dãy số nguyên. Viết chương trình sắp xếp theo thứ t�
 - Thử nghiệm thời gian chạy (Trên máy tính cá nhân):
     + Với input N = 1000 số ngẫu nhiên, thời gian chạy trung bình: 0,009s
     + Với input N = 100000 số ngẫu nhiên, thời gian chạy trung bình: 2,111s
-    + Với input N = 500000 số ngẫu nhiên, thời gian chạy trung bình: 41.955s
-    + Với input N = 1000000 số ngẫu nhiên, thời gian chạy trung bình: 166.371s
+    + Với input N = 500000 số ngẫu nhiên, thời gian chạy trung bình: 41,955s
+    + Với input N = 1000000 số ngẫu nhiên, thời gian chạy trung bình: 166,371s
 - Selection Sort có độ phức tạp O(N^2) nên khi kích thước mảng cần sắp xếp tăng cao thì thời gian chạy cũng tăng lên rất cao.
 
 
