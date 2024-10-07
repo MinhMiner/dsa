@@ -3,6 +3,7 @@
 - Các hàm test ở trong các file Insertion.java và Selection.java
 
 - N = 4000
+
 | Kiểu dữ liệu đầu vào               | Insertion Sort | Selection Sort |
 | ---------------------------------- | -------------- | -------------- |
 | Các file dữ liệu test              | 5.8ms          | 5.2ms          |
@@ -12,6 +13,7 @@
 | Dữ liệu toàn các giá trị bằng nhau | 4.0ms          | 2.6ms          |
 
 - N = 32000
+
 | Kiểu dữ liệu đầu vào               | Insertion Sort | Selection Sort |
 | ---------------------------------- | -------------- | -------------- |
 | Các file dữ liệu test              | 303.8ms        | 176.2ms        |
