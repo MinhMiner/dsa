@@ -34,5 +34,5 @@ Câu 8: Trong hai thuật toán sắp xếp Chọn (Insertion sort) và Chèn/Xe
 
 - Trả lời: Sử dụng thuật toán sắp xếp Chọn và Chèn/Xen cho dữ liệu đầu vào lưu trong LinkedList là không hiệu quả vì:
     + Hai thuật toán sắp xếp trên đều có mức độ truy cập phần tử trong mảng cao
-    + Độ phức tạp về thời gian khi truy cập phần tử trong LinkedList là O(n), chậm hơn nhiều so với ArrayList O(1)
+    + Độ phức tạp về thời gian khi truy cập phần tử trong LinkedList là O(n), chậm hơn nhiều so với thời gian truy cập phần tử trong ArrayList là O(1)
 - Như vậy nếu sắp xếp LinkedList bằng hai thuật toán trên thì sẽ có độ phức tạp là O(N^3), không hiệu quả
