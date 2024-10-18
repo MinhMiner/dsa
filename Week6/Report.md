@@ -8,7 +8,7 @@
 | ---------------------------------- | -------------- | -------------- | ---------- | ---------- |
 | Các file dữ liệu test              | 5.8ms          | 5.2ms          | 0.4ms      | 1.0ms      |
 | Dữ liệu sinh ngẫu nhiên            | 4.8ms          | 2.8ms          | ~0.0ms     | 0.2ms      |
-| Dữ liệu đã được sắp xếp xuôi       | 3020.0ns       | 5378.8ns       | 39340.0ns  | 244700.0ns |
+| Dữ liệu đã được sắp xếp xuôi       | 3020.0ns       | 5378.8ns       | 39340.0ns  | 235940.0ns |
 | Dữ liệu sắp xếp ngược              | 9.4ms          | 2.8ms          | ~0.0ms     | 0.2ms      |
 | Dữ liệu toàn các giá trị bằng nhau | 4.0ms          | 2.6ms          | 0.2ms      | ~0.0ms     |
 

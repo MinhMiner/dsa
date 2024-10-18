@@ -8,7 +8,8 @@ public class QuickSort {
     }
 
     private static void sort(int[] arr, int low, int high) {
-        if (low >= high) {
+        if (high - low < 10) {
+            Insertion.sort(arr, low, high);
             return;
         }
         int mid = partition(arr, low, high);
