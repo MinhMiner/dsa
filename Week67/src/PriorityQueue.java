@@ -22,8 +22,7 @@ public class PriorityQueue {
         }
 
         int result = queue[1];
-        exch(1, size);
-        --size;
+        exch(1, size--);
         sink(1);
         return result;
     }
@@ -45,7 +44,7 @@ public class PriorityQueue {
                 j++; 
             }
 
-            if (less(k, j)) {
+            if (!less(j, k)) {
                 break; 
             }
 
@@ -71,6 +70,10 @@ public class PriorityQueue {
         pq.insert(8);
         pq.insert(4);
         pq.insert(9);
+        pq.insert(8);
+        pq.insert(4);
+        System.out.print(pq.deleteMin() + " ");
+        System.out.print(pq.deleteMin() + " ");
         System.out.print(pq.deleteMin() + " ");
         System.out.print(pq.deleteMin() + " ");
         System.out.print(pq.deleteMin() + " ");
