@@ -303,6 +303,10 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
     /** Get level-order keys set. */
     public Iterable<Key> levelOrderKeys() {
         ArrayList<Key> keys = new ArrayList<>();
+        if (root == null) {
+            return keys;
+        }
+
         Queue<Node> queue = new ArrayDeque<>();
 
         queue.add(root);
@@ -336,13 +340,13 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
         tree.put("P", 6);
         tree.put("X", 7);
 
-        tree.delete("C");
-        tree.delete("T");
+        // tree.delete("A");
+        // tree.delete("P");
 
-        // tree.deleteMin();
+        tree.deleteMin();
         // tree.deleteMin();
 
-        // tree.deleteMax();
+        tree.deleteMax();
         // tree.deleteMax();
         
         System.out.print("Pre-order: ");
